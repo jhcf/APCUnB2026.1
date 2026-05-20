@@ -1,14 +1,14 @@
 # APCUnB2026.1
 
-Repositório público da turma 07 da disciplina Algoritmos e Programação de Computadores da UnB no semestre 2026.1
+Repositório público da turma 07 da disciplina Algoritmos e Programação de Computadores da UnB no semestre 2026.1, sob responsabilidade do Prof. Jorge Henrique Cabral Fernandes
 
 # Disciplina: Algoritmos e Programação de Computadores
 
-**Curso:** Licenciatura em Computação — Turma de Repetentes
+**Curso:** Computação - Licenciatura — Turma de Repetentes
 **Carga horária:** 90 horas-aula (45 min cada)
-**Período:** 16/03/2026 a 18/07/2026 (15 semanas letivas)
+**Período:** 16/03/2026 a 18/07/2026 (15 semanas letivas+Folga para ajustes)
 **Formato:**
-- Segunda-feira, 19h–20h30 — Aula teórica (2 horas-aula)
+- Segunda-feira, 19h–20h30 — Aula teórica (2 horas-aula) - Sala 
 - Quarta-feira, 19h–22h — Laboratório prático (4 horas-aula)
 
 **Perfil da turma:** estudantes repetentes com experiência prévia em Python; futuros professores de computação para a educação básica.
