@@ -327,7 +327,7 @@ escolaridade_nome = {
     5: "Médio completo",
     6: "Superior incompleto",
     7: "Superior completo",
-    8: "Pós-graduação",
+    8: "Sem classificação",
 }
 
 contagem = {}
